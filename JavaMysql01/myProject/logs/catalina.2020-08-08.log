@@ -1,0 +1,281 @@
+08-Aug-2020 12:54:54.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.37
+08-Aug-2020 12:54:54.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 30 2020 20:09:49 UTC
+08-Aug-2020 12:54:54.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.37.0
+08-Aug-2020 12:54:54.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+08-Aug-2020 12:54:54.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.6
+08-Aug-2020 12:54:54.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+08-Aug-2020 12:54:54.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home
+08-Aug-2020 12:54:54.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           9.0.1+11
+08-Aug-2020 12:54:54.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Aug-2020 12:54:54.215 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 12:54:54.216 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 12:54:54.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Aug-2020 12:54:54.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Aug-2020 12:54:54.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Aug-2020 12:54:54.342 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/conf/logging.properties
+08-Aug-2020 12:54:54.342 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Aug-2020 12:54:54.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Aug-2020 12:54:54.345 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Aug-2020 12:54:54.348 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+08-Aug-2020 12:54:54.348 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Aug-2020 12:54:54.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 12:54:54.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 12:54:54.351 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/temp
+08-Aug-2020 12:54:54.351 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/gandra/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+08-Aug-2020 12:54:55.567 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 12:54:55.771 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2194] milliseconds
+08-Aug-2020 12:54:55.979 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Aug-2020 12:54:55.979 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.37]
+08-Aug-2020 12:54:56.028 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/docs]
+08-Aug-2020 12:54:56.814 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/docs] has finished in [785] ms
+08-Aug-2020 12:54:56.815 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/manager]
+08-Aug-2020 12:54:56.927 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/manager] has finished in [112] ms
+08-Aug-2020 12:54:56.930 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/examples]
+08-Aug-2020 12:54:57.820 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/examples] has finished in [891] ms
+08-Aug-2020 12:54:57.821 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/ROOT]
+08-Aug-2020 12:54:57.887 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/ROOT] has finished in [65] ms
+08-Aug-2020 12:54:57.889 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/host-manager]
+08-Aug-2020 12:54:57.959 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/host-manager] has finished in [72] ms
+08-Aug-2020 12:54:57.974 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 12:54:58.029 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2257] milliseconds
+08-Aug-2020 12:56:34.384 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+08-Aug-2020 12:56:34.387 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 12:56:34.403 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Aug-2020 12:56:34.490 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 12:56:34.496 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 12:57:12.269 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.37
+08-Aug-2020 12:57:12.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 30 2020 20:09:49 UTC
+08-Aug-2020 12:57:12.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.37.0
+08-Aug-2020 12:57:12.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+08-Aug-2020 12:57:12.287 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.6
+08-Aug-2020 12:57:12.287 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+08-Aug-2020 12:57:12.287 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home
+08-Aug-2020 12:57:12.287 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           9.0.1+11
+08-Aug-2020 12:57:12.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Aug-2020 12:57:12.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 12:57:12.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 12:57:12.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Aug-2020 12:57:12.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Aug-2020 12:57:12.342 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Aug-2020 12:57:12.342 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/conf/logging.properties
+08-Aug-2020 12:57:12.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Aug-2020 12:57:12.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Aug-2020 12:57:12.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Aug-2020 12:57:12.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+08-Aug-2020 12:57:12.382 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Aug-2020 12:57:12.383 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 12:57:12.416 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 12:57:12.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/temp
+08-Aug-2020 12:57:12.418 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/gandra/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+08-Aug-2020 12:57:13.976 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 12:57:14.089 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2373] milliseconds
+08-Aug-2020 12:57:14.338 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Aug-2020 12:57:14.340 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.37]
+08-Aug-2020 12:57:14.360 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/docs]
+08-Aug-2020 12:57:15.250 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/docs] has finished in [889] ms
+08-Aug-2020 12:57:15.251 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/manager]
+08-Aug-2020 12:57:15.377 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/manager] has finished in [126] ms
+08-Aug-2020 12:57:15.383 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/examples]
+08-Aug-2020 12:57:16.248 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/examples] has finished in [865] ms
+08-Aug-2020 12:57:16.249 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/ROOT]
+08-Aug-2020 12:57:16.309 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/ROOT] has finished in [60] ms
+08-Aug-2020 12:57:16.309 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/host-manager]
+08-Aug-2020 12:57:16.361 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/host-manager] has finished in [52] ms
+08-Aug-2020 12:57:16.369 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 12:57:16.384 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2294] milliseconds
+08-Aug-2020 12:59:06.511 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/app]
+08-Aug-2020 12:59:06.637 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/app] has finished in [127] ms
+08-Aug-2020 13:08:24.991 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+08-Aug-2020 13:08:24.999 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:08:25.016 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Aug-2020 13:08:25.127 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:08:25.147 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:08:45.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.37
+08-Aug-2020 13:08:45.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 30 2020 20:09:49 UTC
+08-Aug-2020 13:08:45.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.37.0
+08-Aug-2020 13:08:45.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+08-Aug-2020 13:08:45.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.6
+08-Aug-2020 13:08:45.331 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+08-Aug-2020 13:08:45.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home
+08-Aug-2020 13:08:45.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           9.0.1+11
+08-Aug-2020 13:08:45.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Aug-2020 13:08:45.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 13:08:45.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 13:08:45.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Aug-2020 13:08:45.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Aug-2020 13:08:45.364 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Aug-2020 13:08:45.364 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/conf/logging.properties
+08-Aug-2020 13:08:45.364 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Aug-2020 13:08:45.364 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Aug-2020 13:08:45.365 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Aug-2020 13:08:45.371 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+08-Aug-2020 13:08:45.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Aug-2020 13:08:45.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 13:08:45.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 13:08:45.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/temp
+08-Aug-2020 13:08:45.385 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/gandra/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+08-Aug-2020 13:08:46.137 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:08:46.221 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1270] milliseconds
+08-Aug-2020 13:08:46.335 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Aug-2020 13:08:46.336 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.37]
+08-Aug-2020 13:08:46.352 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/app]
+08-Aug-2020 13:08:47.516 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/app] has finished in [1,164] ms
+08-Aug-2020 13:08:47.517 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/docs]
+08-Aug-2020 13:08:47.602 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/docs] has finished in [85] ms
+08-Aug-2020 13:08:47.603 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/manager]
+08-Aug-2020 13:08:47.700 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/manager] has finished in [98] ms
+08-Aug-2020 13:08:47.703 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/examples]
+08-Aug-2020 13:08:48.245 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/examples] has finished in [541] ms
+08-Aug-2020 13:08:48.247 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/ROOT]
+08-Aug-2020 13:08:48.301 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/ROOT] has finished in [54] ms
+08-Aug-2020 13:08:48.302 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/host-manager]
+08-Aug-2020 13:08:48.363 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/host-manager] has finished in [60] ms
+08-Aug-2020 13:08:48.369 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:08:48.394 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2170] milliseconds
+08-Aug-2020 13:12:18.817 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+08-Aug-2020 13:12:18.819 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:12:18.838 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Aug-2020 13:12:18.902 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:12:18.911 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:12:29.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.37
+08-Aug-2020 13:12:29.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 30 2020 20:09:49 UTC
+08-Aug-2020 13:12:29.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.37.0
+08-Aug-2020 13:12:29.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+08-Aug-2020 13:12:29.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.6
+08-Aug-2020 13:12:29.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+08-Aug-2020 13:12:29.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home
+08-Aug-2020 13:12:29.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           9.0.1+11
+08-Aug-2020 13:12:29.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Aug-2020 13:12:29.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 13:12:29.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 13:12:29.362 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Aug-2020 13:12:29.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Aug-2020 13:12:29.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Aug-2020 13:12:29.364 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/conf/logging.properties
+08-Aug-2020 13:12:29.364 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Aug-2020 13:12:29.364 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Aug-2020 13:12:29.366 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Aug-2020 13:12:29.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+08-Aug-2020 13:12:29.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Aug-2020 13:12:29.370 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 13:12:29.372 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 13:12:29.381 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/temp
+08-Aug-2020 13:12:29.382 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/gandra/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+08-Aug-2020 13:12:30.118 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:12:30.215 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1286] milliseconds
+08-Aug-2020 13:12:30.338 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Aug-2020 13:12:30.339 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.37]
+08-Aug-2020 13:12:30.381 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/app]
+08-Aug-2020 13:12:30.886 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/app] has finished in [506] ms
+08-Aug-2020 13:12:30.887 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/docs]
+08-Aug-2020 13:12:30.986 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/docs] has finished in [99] ms
+08-Aug-2020 13:12:30.987 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/manager]
+08-Aug-2020 13:12:31.071 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/manager] has finished in [84] ms
+08-Aug-2020 13:12:31.071 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/examples]
+08-Aug-2020 13:12:31.577 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/examples] has finished in [506] ms
+08-Aug-2020 13:12:31.577 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/ROOT]
+08-Aug-2020 13:12:31.630 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/ROOT] has finished in [53] ms
+08-Aug-2020 13:12:31.631 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/host-manager]
+08-Aug-2020 13:12:31.692 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/host-manager] has finished in [62] ms
+08-Aug-2020 13:12:31.699 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:12:31.722 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1505] milliseconds
+08-Aug-2020 13:20:52.868 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+08-Aug-2020 13:20:52.871 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:20:52.892 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Aug-2020 13:20:52.963 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:20:52.973 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:21:01.445 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.37
+08-Aug-2020 13:21:01.449 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 30 2020 20:09:49 UTC
+08-Aug-2020 13:21:01.449 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.37.0
+08-Aug-2020 13:21:01.450 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+08-Aug-2020 13:21:01.450 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.6
+08-Aug-2020 13:21:01.450 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+08-Aug-2020 13:21:01.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home
+08-Aug-2020 13:21:01.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           9.0.1+11
+08-Aug-2020 13:21:01.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Aug-2020 13:21:01.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 13:21:01.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 13:21:01.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Aug-2020 13:21:01.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Aug-2020 13:21:01.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Aug-2020 13:21:01.492 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/conf/logging.properties
+08-Aug-2020 13:21:01.492 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Aug-2020 13:21:01.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Aug-2020 13:21:01.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Aug-2020 13:21:01.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+08-Aug-2020 13:21:01.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Aug-2020 13:21:01.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 13:21:01.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 13:21:01.495 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/temp
+08-Aug-2020 13:21:01.496 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/gandra/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+08-Aug-2020 13:21:02.427 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:21:02.534 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1524] milliseconds
+08-Aug-2020 13:21:02.679 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Aug-2020 13:21:02.679 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.37]
+08-Aug-2020 13:21:02.696 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/app]
+08-Aug-2020 13:21:03.502 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/app] has finished in [805] ms
+08-Aug-2020 13:21:03.504 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/docs]
+08-Aug-2020 13:21:03.568 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/docs] has finished in [64] ms
+08-Aug-2020 13:21:03.568 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/manager]
+08-Aug-2020 13:21:03.769 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/manager] has finished in [201] ms
+08-Aug-2020 13:21:03.770 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/examples]
+08-Aug-2020 13:21:04.798 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/examples] has finished in [1,028] ms
+08-Aug-2020 13:21:04.799 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/ROOT]
+08-Aug-2020 13:21:04.872 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/ROOT] has finished in [73] ms
+08-Aug-2020 13:21:04.873 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/host-manager]
+08-Aug-2020 13:21:04.997 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/host-manager] has finished in [124] ms
+08-Aug-2020 13:21:05.004 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:21:05.050 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2515] milliseconds
+08-Aug-2020 13:53:49.982 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+08-Aug-2020 13:53:50.007 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:53:50.057 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Aug-2020 13:53:50.241 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:53:50.260 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:53:59.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.37
+08-Aug-2020 13:53:59.530 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 30 2020 20:09:49 UTC
+08-Aug-2020 13:53:59.530 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.37.0
+08-Aug-2020 13:53:59.531 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+08-Aug-2020 13:53:59.531 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.6
+08-Aug-2020 13:53:59.531 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+08-Aug-2020 13:53:59.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home
+08-Aug-2020 13:53:59.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           9.0.1+11
+08-Aug-2020 13:53:59.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Aug-2020 13:53:59.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 13:53:59.534 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 13:53:59.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Aug-2020 13:53:59.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Aug-2020 13:53:59.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Aug-2020 13:53:59.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/conf/logging.properties
+08-Aug-2020 13:53:59.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Aug-2020 13:53:59.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Aug-2020 13:53:59.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Aug-2020 13:53:59.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+08-Aug-2020 13:53:59.629 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Aug-2020 13:53:59.629 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 13:53:59.629 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject
+08-Aug-2020 13:53:59.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/temp
+08-Aug-2020 13:53:59.649 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/gandra/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+08-Aug-2020 13:54:00.764 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:54:00.917 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1848] milliseconds
+08-Aug-2020 13:54:01.052 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Aug-2020 13:54:01.052 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.37]
+08-Aug-2020 13:54:01.083 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/app]
+08-Aug-2020 13:54:02.313 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Aug-2020 13:54:02.462 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/app] has finished in [1,378] ms
+08-Aug-2020 13:54:02.464 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/docs]
+08-Aug-2020 13:54:02.922 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Aug-2020 13:54:02.928 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/docs] has finished in [465] ms
+08-Aug-2020 13:54:02.929 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/manager]
+08-Aug-2020 13:54:03.317 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Aug-2020 13:54:03.343 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/manager] has finished in [414] ms
+08-Aug-2020 13:54:03.347 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/examples]
+08-Aug-2020 13:54:04.286 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Aug-2020 13:54:04.345 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/examples] has finished in [998] ms
+08-Aug-2020 13:54:04.346 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/ROOT]
+08-Aug-2020 13:54:04.758 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Aug-2020 13:54:04.763 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/ROOT] has finished in [417] ms
+08-Aug-2020 13:54:04.766 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/host-manager]
+08-Aug-2020 13:54:05.178 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Aug-2020 13:54:05.181 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/host-manager] has finished in [415] ms
+08-Aug-2020 13:54:05.196 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 13:54:05.253 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4334] milliseconds
