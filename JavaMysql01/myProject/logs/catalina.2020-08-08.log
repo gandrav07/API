@@ -279,3 +279,7 @@
 08-Aug-2020 13:54:05.181 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/gandra/Documents/Notes/GitHub/API/JavaMysql01/myProject/webapps/host-manager] has finished in [415] ms
 08-Aug-2020 13:54:05.196 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
 08-Aug-2020 13:54:05.253 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4334] milliseconds
+08-Aug-2020 14:07:15.787 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 14:07:15.847 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Aug-2020 14:07:16.357 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Aug-2020 14:07:16.385 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
